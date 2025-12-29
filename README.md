@@ -1,4 +1,4 @@
-Hi 👋, I'm scripted, a security researcher, reverse engineer & developer from Delhi, India.
+Hi 👋, I'm scripted, a security researcher, reverse engineer & developer from New Delhi, India.
 
 ---
 
